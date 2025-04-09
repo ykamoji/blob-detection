@@ -4,3 +4,4 @@
 <hr/>
 
 ![Blob Detection 1](https://github.com/ykamoji/blob-detection/blob/main/img_refs/blob_detection_1.png?raw=true)
+![Blob Detection 2](https://github.com/ykamoji/blob-detection/blob/main/img_refs/blob_detection_2.png?raw=true)
